@@ -1,5 +1,5 @@
 # About Me
-A passionate full-stack developer and machine learning enthusiast, I love creating impactful solutions with my own hands. My goal is to innovate at the intersection of AI and web development, building scalable systems that solve real-world challenges. I’m always eager to tackle new problems and contribute to the tech community.
+A passionate web developer and machine learning enthusiast, I love creating impactful solutions with my own hands. My goal is to innovate at the intersection of AI and web development, building scalable systems that solve real-world challenges. I’m always eager to tackle new problems and contribute to the tech community.
 
 # Tech Fluency
 Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn, OpenCV
