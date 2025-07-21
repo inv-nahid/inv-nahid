@@ -20,7 +20,8 @@ Backend & Optimization: Python, FastAPI, Git, CI/CD
 Data Analysis & Visualization: Pandas, NumPy, DAX, Power BI, Tableau
 
 # Projects
-## Real-Time Chat App ---- Texts
+## Real-Time Chat App ---- [Texts](https://texts-qfdi.onrender.com/signup)
+
 
 
 
@@ -48,7 +49,23 @@ Modern UI: Responsive, accessible design with Tailwind CSS
 
 
 
-## Full Stack Service Provider Web App ---- HomeAssist
+## Fitness Exercise App ---- [Limitless](https://texts-qfdi.onrender.com/signup)
+
+
+
+A fast, responsive fitness web application built with **React** and **Material UI**, designed to help users explore and learn from 1000+ exercises. Users can search exercises by name or muscle group, watch real-time YouTube demos, and visually understand movement through GIF previews. Ideal for beginners and fitness enthusiasts alike.
+
+
+
+- **Exercise Search** – Browse 1000+ exercises by name or target muscle group
+- **Muscle Group Filter** – Filter by body parts like chest, back, arms, legs, etc.
+- **YouTube Integration** – Get real-time video demos for each exercise
+- **GIF Previews** – Visualize movements with GIFs fetched via RapidAPI
+- **Responsive UI** – Optimized for both mobile and desktop with smooth navigation
+
+
+
+## Full Stack Service Provider Web App ---- [HomeAssist](https://amansiz.netlify.app/)
 
 
 
