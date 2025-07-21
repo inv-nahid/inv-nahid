@@ -2,25 +2,52 @@
 A passionate web developer and machine learning enthusiast, I love creating impactful solutions with my own hands. My goal is to innovate at the intersection of AI and web development, building scalable systems that solve real-world challenges. I’m always eager to tackle new problems and contribute to the tech community.
 
 # Tech Fluency
-Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn, OpenCV
-
-
-
-Web Development: Tailwind CSS, JavaScript, ReactJS, Java, Spring Boot, Docker
+Web Development: JavaScript, TypeScript, React.js, Node.js, Express, SpringBoot
 
 
 
 Databases: MongoDB, MySQL, SQLPlus
 
 
+Machine Learning & Deep Learning: TensorFlow, Scikit-Learn, OpenCV
 
-Machine Learning & Optimization: Python, FastAPI, Git, CI/CD
+
+
+Backend & Optimization: Python, FastAPI, Git, CI/CD
 
 
 
 Data Analysis & Visualization: Pandas, NumPy, DAX, Power BI, Tableau
 
 # Projects
+## Real-Time Chat App ---- Texts
+
+
+
+A full-stack chat platform rebuilt from JavaScript to TypeScript for end-to-end type safety and maintainability.
+
+
+
+100% TypeScript: Strongly-typed backend (Express, MongoDB) and frontend (React, Zustand, Vite)
+
+
+
+Real-Time Messaging: Instant delivery and online status via Socket.IO
+
+
+
+Secure Auth: JWT, HTTP-only cookies, and protected routes
+
+
+
+Media Support: Text and image messaging with Cloudinary integration
+
+
+
+Modern UI: Responsive, accessible design with Tailwind CSS
+
+
+
 ## Full Stack Service Provider Web App ---- HomeAssist
 
 
@@ -35,7 +62,7 @@ Users can create an account, book multiple services at their selected date and t
 
 
 
-Technologies Used: ReactJS, Vite, TailwindCSS, Spring Boot, MySQL, Spring Data JPA, Maven, Git, Netlify
+Technologies Used: ReactJS, Vite, TailwindCSS, Spring Boot, MySQL, Git
 
 
 
