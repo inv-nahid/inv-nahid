@@ -6,7 +6,7 @@ Web Development: JavaScript, TypeScript, React.js, Node.js, Express, SpringBoot
 
 
 
-Databases: MongoDB, MySQL, SQLPlus
+Databases: MongoDB, MySQL
 
 
 Machine Learning & Deep Learning: TensorFlow, Scikit-Learn, OpenCV
@@ -17,7 +17,7 @@ Backend & Optimization: Python, FastAPI, Git, CI/CD
 
 
 
-Data Analysis & Visualization: Pandas, NumPy, DAX, Power BI, Tableau
+Data Analysis & Visualization: Pandas, NumPy, DAX, Power BI
 
 # Projects
 ## Real-Time Chat App ---- [Texts](https://texts-qfdi.onrender.com/signup)
