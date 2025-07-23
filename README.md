@@ -2,7 +2,7 @@
 A passionate web developer and machine learning enthusiast, I love creating impactful solutions with my own hands. My goal is to innovate at the intersection of AI and web development, building scalable systems that solve real-world challenges. I’m always eager to tackle new problems and contribute to the tech community.
 
 # Tech Fluency
-Web Development: JavaScript, TypeScript, React.js, Node.js, Express, SpringBoot
+Web Development: JavaScript, TypeScript, React.js, Node.js, Express
 
 
 
@@ -13,7 +13,7 @@ Machine Learning & Deep Learning: TensorFlow, Scikit-Learn, OpenCV
 
 
 
-Backend & Optimization: Python, FastAPI, Git, CI/CD
+Backend & Optimization: Python, Git, CI/CD
 
 
 
